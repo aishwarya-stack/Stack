@@ -22,4 +22,9 @@ public INode peak()
 {
 	return MyLinkedList.head;
 }
+
+public INode pop() {
+	// TODO Auto-generated method stub
+	return MyLinkedList.pop();
+}
 }
